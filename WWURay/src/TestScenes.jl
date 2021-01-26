@@ -5,7 +5,7 @@ using ..GfxBase
 using ..Scenes
 using ..Materials
 using ..Lights
-using ..OBJMeshes
+using ..WWUMeshes
 using ..Cameras
 
 # helpful things:
